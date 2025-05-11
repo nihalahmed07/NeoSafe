@@ -1,0 +1,45 @@
+Security News
+Stay informed about the latest cybersecurity threats, breaches, and best practices
+
+Breach Alert
+May 8, 2025
+Major Data Breach Affects 500,000 Users
+A popular social media platform disclosed a data breach affecting approximately 500,000 users. Exposed information includes email addresses and hashed passwords.
+
+Read full article
+Threat Warning
+May 5, 2025
+New Phishing Campaign Targets Banking Customers
+Security researchers have identified a sophisticated phishing campaign targeting customers of major banks. The emails mimic legitimate bank communications and attempt to steal login credentials.
+
+Read full article
+Security Update
+April 30, 2025
+Critical Security Update Released for Popular Browser
+Developers have released an urgent security patch for a widely used web browser, fixing a vulnerability that could allow remote code execution. Users are advised to update immediately.
+
+Read full article
+Research
+April 28, 2025
+Study Shows Rise in Ransomware Attacks Against Small Businesses
+A new cybersecurity report reveals a 40% increase in ransomware attacks targeting small businesses in the first quarter of 2025. The report highlights the importance of regular backups and security training.
+
+Read full article
+Regulation
+April 25, 2025
+Government Issues New Data Protection Guidelines
+Federal agencies have released updated guidelines for data protection and privacy. The new framework includes stricter requirements for organizations handling sensitive personal information.
+
+Read full article
+Product News
+April 20, 2025
+Password Manager Service Strengthens Security Features
+A leading password manager service has announced enhanced security features, including improved encryption standards and additional authentication options for users.
+
+Read full article
+Get Security Alerts
+Subscribe to our security alert service to receive timely notifications about data breaches that might affect you.
+
+abc@abc.com
+Subscribe
+We respect your privacy and will only send relevant s
